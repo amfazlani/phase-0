@@ -1,4 +1,4 @@
-    #Tracking Changes Refelction
+#Tracking Changes Reflection
 
     How does tracking and adding changes make developers' lives easier?
     Because web development is very dependent on collaboration and constantly improving the functionality of code it is natural that tracking and adding changes is vital to a developer's success. Because a developer is able to track each and every change, it makes the process much easier by eliminating any confusion on the sources of those changes and reasoning behind the changes.
@@ -13,7 +13,8 @@
     I have not fully grasped this functionality to be able to explain it.
 
     What are the 3 stages of a git change and how do you move a file from one stage to the other?
-    The three stages of a git change begin with the master. You must be sure that you're terminal is in the master branch of the repository that  you are trying to change. Second, is the "branching" stage. In order to make changes that do not affect the master, you must create a branch. To create a branch, you must type in git checkout -b {enter branch name}. Once you are inside this new branch, you must create a directory using the mkdir command in the terminal. After navigating inside the new directory you just created,  you can create a file using touch {file name}. After this you can open your new file in sublime, and make the changes you need to make. Then you will need to use add . to set the new file up for commit. And then use git commit to actualy commit the file. After this, you will need to use git push origin {branch name} in order to push it to your github account for a pull request. Once you accept the pull request your can now pull the master version back to your computer and all the changes have been made.
+    The three stages of a git change begin with the master. You must be sure that you're terminal is in the master branch of the repository that  you are trying to change. Second, is the "branching" stage. In order to make changes that do not affect the master, you must create a branch. To create a branch, you must type in git checkout -b {enter branch name}. Once you are inside this new branch, you must create a directory using the mkdir command in the terminal. After navigating inside the new directory you just created,  you can create a file using touch {file name}. After this you can open your new file in sublime, and make the changes you need to make. Then you will need to use add . to set the new file up for commit. And then use git commit to actualy commit the file. After this, you will need to use git push origin {branch name} in order to push it to your github account for a pull request. Once you accept the pull request your can now pull the master version back to your computer and all the changes have been made
+
     Write a handy cheatsheet of the commands you need to commit your changes?
 
     The major commands that you would need are git checkout -b (creates branch), touch (creates file), add . (sets up file for commit), git commit (commits file)

@@ -1,3 +1,5 @@
+    #Tracking Changes Refelction
+
     How does tracking and adding changes make developers' lives easier?
     Because web development is very dependent on collaboration and constantly improving the functionality of code it is natural that tracking and adding changes is vital to a developer's success. Because a developer is able to track each and every change, it makes the process much easier by eliminating any confusion on the sources of those changes and reasoning behind the changes.
 

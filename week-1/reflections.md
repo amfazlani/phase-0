@@ -66,6 +66,16 @@ In my opinion, the most important navigational commands are ls,pwd, mkdir, cd, m
 
 -help- provides information about commands. Also called the man command on Mac.
 
+### 1.4 Create, Fork and Clone Repositories
+
+    If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be? Why would you fork a repository as opposed to create a new one?
+
+First, I would tell the person to log into his Github account. I would tell the person to click on the + sign next to his name. Once this person on the new repository page I would tell the person to type in the name of his new repository, make it public, and then set it to the MIT license. In order to fork a repo, I would instruct the person to go the repository he/she wishes to fork and then click the fork button which will automatically fork the repo to his account. In order to clone the repo I would tell that person to copy the HTTPS url that is embedded in the main page of the repository after it is forked and then navigate to his terminal. In the terminal the person must first navigate to the folder or directory that the repo needs to be cloned in and then type git clone and then paste the url. This will clone the repository. In some cases, it is more important to fork a repo than create a new one because you may want to build on or modify an already existing repository instead of starting completely from scratch.
+
+    What struggles did you have setting up git and GitHub? What did you learn in the process?
+
+It has actually been very smooth setting up git and GitHub although I must say I have not learned all of the git commands and will try to do that as soon as I can. I have learned though that much of coding is about setting up environments and  learning how to navigate through them. It my opinion, this skill is absolutely critical in the world of web development. It does make sense, though, that this is the case because of the collaborative nature of web development.
+
 
 
 

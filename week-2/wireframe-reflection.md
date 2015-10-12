@@ -1,5 +1,5 @@
-![My Wireframe Index](wireframe-index.png)
-![My Wireframe Blog Index](wireframe-blog-index.png)
+
+![My Wireframe Blog Index](/imgs/wireframe-blog-index.png)
 
 #My Wireframe Reflection
 

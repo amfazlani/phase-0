@@ -1,4 +1,4 @@
-![My Site Map](site-map.png)
+![My Site Map](sitemap.png)
 
 #Introduction to Design and Site Planning Reflection
 

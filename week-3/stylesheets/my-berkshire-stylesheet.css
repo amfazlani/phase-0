@@ -1,0 +1,94 @@
+
+html * {
+    color: #000080;
+    background-color: #ffffff;
+}
+
+a:link {
+    color: #800080;
+}
+
+a:visited {
+    color : #ff0000;
+}
+
+header {
+    line-height:1;
+    font-weight:bold;
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+h1 {
+    line-height:1;
+    font-size: 30px;
+    font-variant: small-caps;
+    margin: 0px 0px 3px 0px;
+}
+
+h2 {
+    line-height:1;
+    font-size: 10px;
+    margin: 0px 0px 0px 0px;
+}
+
+h3 {
+    font-size: 15px;
+    margin: 0px 0px 0px 0px;
+}
+section {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+     border-bottom: 1px solid;
+}
+
+p{
+    font-size: 10px;
+    margin-top: 0px;
+}
+
+ul {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+li {
+    height: 75px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+aside {
+        border-bottom: 1px solid;
+}
+
+h4 {
+    text-align:center;
+    font-size: 10px;
+    font-variant: caps;
+}
+
+/*
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+First,it is important to name the stylesheet file a short name so that there are no errors when you are typing the name into your HTML file. Second, it is important that it is in the same directory of the HTML file.
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+
+One trick that helped was keeping in mind how we used certain CSS properties with other parts of the site to do a certain task. Later on in the document, all we had to do was refer back to those properties whenever we knew we had to style it in the same way. I would say it was pretty difficult simply because I am not completely comfortable with using CSS at this point and I believe with practice, it will become easier and eaiser to style. But overall, we were able to accomplish the task at hand and make our version look like the original.
+
+What CSS did you use to modify the element style (like size, color, etc.)
+
+For size, we used font-size:; for color we used color:; for centering we used text-align;center. For bolding we used font-weight:bold.
+
+Did you modify the HTML to include classes or ids? If so, which did you chose and why? If you didn't, how would you know which one to add to your HTML?
+
+We used mostly h1, h2, h3, etc. I have to be honest and say I still have to learn more about using CSS classes and id's and including them within the HTML document. In terms of knowing which ones to add to our HTML, we just kept track of our different headers and formatted accordingly. This may not be the most effective technique though as it could get confusing if there are many elements in a certain file. It worked for this file though because there was not much content.
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+Our code was definetely cleaner and it was very shocking to see how complex and redundant code used to be in the late 1990's/early 2000's. It just shows how far web development has come in such a short period of time. This also made me think how different code 15 years from now would look compared to the code we write today. I believe the reason for this is because the web development community is so vibrant and connected, tht people are constantly improving best practices and changing the way they write and understand code.
+
+*/
+

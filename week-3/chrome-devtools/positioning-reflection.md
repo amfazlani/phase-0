@@ -24,7 +24,7 @@ This challenge was admittedly difficult because it was hard to gain a full under
 ![Exercise #1](Exercise1.png)
 ![Exercise #2](Exercise2.png)
 ![Exercise #3](Exercise3.png)
-![Exercise #4][Exercise4.png)
+![Exercise #4](Exercise4.png)
 ![Exercise #5](Exercise5.png)
 ![Exercise #6](Exercise6.png)
 ![Exercise #7](Exercise7.png)

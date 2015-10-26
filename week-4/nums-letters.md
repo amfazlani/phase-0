@@ -8,7 +8,7 @@ y = x * 24
 z = y * 60
 puts z
 
-<!--
+=begin
 
 What does puts do?
 
@@ -45,6 +45,13 @@ Local variables are variables that have a specifc scope. They are created by usi
 How was this challenge? Did you get a good review of some of the basics?
 
 This challenge went pretty well. I feel like I was able to review most of the basics that I learned in my prepartion for the Dev Bootcamp interview.
- -->
+=end
+
+
+#links to other solution files in challenge
+
+# https://github.com/amfazlani/phase-0/blob/master/week-4/defining-variables.rb
+# https://github.com/amfazlani/phase-0/blob/master/week-4/simple-string.rb
+# https://github.com/amfazlani/phase-0/blob/master/week-4/basic-math.rb
 
 

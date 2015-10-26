@@ -1,3 +1,64 @@
-body {
-  background-color: blue
+header {
+    background-color: blue;
+    padding:0.5em 1.5em;
+    margin-bottom:2em;
+    box-shadow: 15px 15px 3px #333;
+}
+
+header h1 {
+    color:white;
+    font-family: 'Arial'
+}
+
+.text-center {
+    text-align:center;
+}
+
+a:link {
+    text-decoration:none;
+    color:yellow;
+}
+
+a:visited {
+
+}
+
+a:active {
+}
+
+a:hover {
+    background-color:#999;
+}
+
+footer a:link {
+    color: #333;
+}
+
+footer a:visited {
+    color:red;
+}
+
+.container-padding {
+   padding:0.5em 1.5em;
+}
+
+.column-1 {
+    background-color: green;
+}
+
+.column-2 {
+    background-color: red;
+    float: right;
+}
+
+section {
+    width: 44%;
+    display: inline-block;
+    margin: 0;
+    border-radius: 15px 15px 15px
+}
+footer {
+    background-color: yellow;
+    margin-top: 2em;
+    box-shadow: 15px -15px 3px #333
 }
